@@ -58,7 +58,15 @@ Waiting for USB device to appear...
   
 [Apple iPhone::PID::5412]->  
 ```
+ - 앱패키지명 아는 방법 (frida-ps -Uai)
 
+```
+λ frida-ps -Uai
+PID  Name                   Identifier
+----  ---------------------  ---------------------------------------
+3729  Cydia                  com.saurik.Cydia
+393  Mail                   com.apple.mobilemail
+```
 
 *잘안될때 체크*
 frida 버전 서로 맞는지 확인 / 최신버전인지 확인  
