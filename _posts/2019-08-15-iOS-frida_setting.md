@@ -6,7 +6,7 @@ tags:
   - iOS
   - frida
 categories:
-  - iOS
+  - frida
 ---
 
 진행환경
