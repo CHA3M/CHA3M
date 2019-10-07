@@ -12,6 +12,5 @@ toc: true
 ---
 
 ## CHA3M's space  
-> [챔챔.kr](http://챔챔.kr)  
 > [cha3m.github.io](https://cha3m.github.io)  
 
