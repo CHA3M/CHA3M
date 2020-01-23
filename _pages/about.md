@@ -13,5 +13,6 @@ toc: true
 
 ## CHA3M's space  
 > Information Security
-> [cha3m.github.io](https://cha3m.github.io)  
+
+> [cha3m.tistory.com 으로 이동](https://cha3m.tistory.com)  
 
